@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Infrastructure Citation"
+  short_description: "Design reproducible product-as-instrument research citations"
+  default_prompt: "Use $research-infrastructure-citation to design a credible, reproducible workflow that turns a product or API into a properly disclosed research instrument citation."
