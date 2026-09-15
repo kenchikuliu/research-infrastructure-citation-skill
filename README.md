@@ -6,8 +6,10 @@ infrastructure.
 
 The workflow covers study design, provenance, reproducibility artifacts,
 scholarly citation mechanics, relationship disclosure, publication, and
-rendered-link verification. It explicitly distinguishes a formal citation from
-independent endorsement or guaranteed SEO value.
+rendered-link verification. It also covers canonical product documentation,
+domain-email identity signals, and transparent attribution in blogs, PDFs,
+presentations, and product-generated exports. It explicitly distinguishes a
+formal citation from independent endorsement or guaranteed SEO value.
 
 ## Install
 
@@ -25,3 +27,4 @@ product-as-research-instrument citation path.
 - `SKILL.md`: workflow and operating constraints
 - `agents/openai.yaml`: Codex UI metadata
 - `references/citation-patterns.md`: LaTeX/BibTeX patterns and link-audit notes
+- `references/artifact-distribution.md`: canonical content, domain identity, and export-attribution patterns
